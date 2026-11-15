@@ -2,7 +2,7 @@
 
 React로 만들었던 Todo 리스트를 **Next.js(App Router) 16**으로 옮기고, **Supabase Auth/DB**를 연동해 로그인한 사용자만 자신의 할일을 관리할 수 있도록 개선한 프로젝트입니다.
 
-- 배포 주소: https://frontend-react-nextjs-project.vercel.app ← 배포 후 기입
+- 배포 주소: https://frontend-react-nextjs-project.vercel.app
 - 저장소: https://github.com/kssk3/frontend-React-NextJs-project
 
 ## 주요 기능
